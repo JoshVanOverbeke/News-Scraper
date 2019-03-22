@@ -1,16 +1,17 @@
 {
   "name": "news-scraper",
   "version": "1.0.0",
-  "description": "A scraper of news",
+  "description": "\"for scraping the news\"",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JoshVanOverbeke/News-Scraper.git"
   },
-  "author": "Josh VanOverbeke",
+  "author": "Josh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JoshVanOverbeke/News-Scraper/issues"
